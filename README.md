@@ -1,4 +1,4 @@
-### Hello There!!! My Name is Patrick Portes, and i'm Software Developer
+### Hello There!!! My Name is Patrick Portes, and i'm a Software Developer
 
 ##
 
