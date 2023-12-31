@@ -4,11 +4,11 @@ Hello There!!! 👋 My Name is Patrick Portes
 Android Developer
 -----------------
 
-I've been learning to code for 4 years, i started with Web Development, but have really found a passion for Mobile Development
+I've dedicated years to improve my skills in creating robust and user-friendly applications in native android development.
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [patrickportes23@hotmail.com](mailto:patrickportes23@hotmail.com)
-*   🧠  I'm learning Android Development using Kotlin and Java 
+*   🧠  I'm immersing myself in learning everything about native Android development.
 
 ##
 ### Skills
@@ -19,6 +19,9 @@ I've been learning to code for 4 years, i started with Web Development, but have
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android" /></a>
+<a href="https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAv8SsBhC7ARIsALIkVT1foiFhEl0zu8fdsmL5hXyJjPsRHlzlVioJLRB19tAQjht-E3v_ke8aAkH6EALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/jetpack/images/be5cdec8-1b56-4052-823c-9a0518e666e2.svg" width="36" height="36" alt="Android" /></a>
 </p>
 
 ##                   
